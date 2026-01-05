@@ -33,3 +33,6 @@ The project follows a Modern Data Stack **ELT (Extract, Load, Transform)** patte
 * **Specialty Bias Removed:** By normalizing against specialty averages, the model correctly ignored Pain Management specialists and focused on family practitioners with unexplained high volumes.
 
 ---
+
+### Visualization
+<img width="809" height="579" alt="image" src="https://github.com/user-attachments/assets/5206bdd5-fdbc-44de-9f3b-2d6c7f0b899e" />
