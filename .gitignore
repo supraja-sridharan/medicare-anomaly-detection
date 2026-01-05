@@ -1,0 +1,11 @@
+*.csv
+*.xlsx
+*.zip
+*.json
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+config.py
